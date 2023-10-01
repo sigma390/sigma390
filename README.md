@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sigma390
+- 👋 Hi, I’m Omkar
 - 👀 I’m interested in Open Source Contributions
 - 🌱 I’m currently learning Computer Science Engineering 
 - 💞️ I’m looking to collaborate on Projects on Full stack development
