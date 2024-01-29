@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omkar
 - 👀 I’m interested in Open Source Contributions
-- 🌱 I’m currently learning Computer Science Engineering 
+- 🌱 Full stack developer
 - 💞️ I’m looking to collaborate on Projects on Full stack development
 - 📫 email me at 390.ompatil@gmail.com for any collaboration work queries...
 
