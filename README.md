@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Omkar<br>👀 I’m interested in Open Source Contributions<br>🌱 Full stack developer<br>💞️ I’m looking to collaborate on Projects on Full stack development<br>📫 email me at 390.ompatil@gmail.com for any collaboration work queries...
+👋 Hi, I’m Omkar<br>👀 I’m interested in Web Devlopment Open Source Contributions<br>🌱 Full stack developer(i Write , I Build , I run , I Deploy)  <br>💞️ I’m looking to collaborate on Projects on Full stack development<br>📫 email me at 390.ompatil@gmail.com for work and give it a Shot...
 
 
 ## 🌐 Socials:
