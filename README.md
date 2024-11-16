@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Omkar<br>| ɪ ᴡʀɪᴛᴇ🔁ɪ ʙᴜɪʟᴅ🔁ɪ ʀᴜɴ🔁ɪ ᴅᴇᴘʟᴏʏ | <br> 👀 Inclined Towards Web Devlopment & Open Source Contributions <br>💻 Full stack developer <br> 🔍 I’m looking to collaborate on Projects on Full stack development<br>📫 email me at 390.ompatil@gmail.com for work and give it a Shot...
+👋 Hi, I’m Omkar<br>| ɪ ᴡʀɪᴛᴇ🔁ɪ ʙᴜɪʟᴅ🔁ɪ ʀᴜɴ🔁ɪ ᴅᴇᴘʟᴏʏ | <br> 👀 Inclined Towards Web Devlopment & Open Source Contributions <br>💻 Full stack developer <br>
+<br>📫 Drop a email at 390.ompatil@gmail.com for work and give it a Shot...
 
 
 ## 🌐 Socials:
